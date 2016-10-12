@@ -1,0 +1,8 @@
+GO E
+GO E
+GO S
+TAKE KEY a
+GO S
+OPEN DOOR A
+GO W
+GO W
